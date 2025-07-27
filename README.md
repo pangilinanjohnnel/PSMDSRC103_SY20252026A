@@ -8,10 +8,11 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me:</h2>
 
 ###
 
-<p align="left">✨Undertaking Programming course for the first time.<br>📚 Former Radiologic technologist<br>🎯 Goals: Learning Python <br>🎲 Fun fact: ...</p>
+<p align="left">✨Undertaking Programming course for the first time <be> ☠️ Former Radiologic technologist <be> 🎯 Currently Learning Python <br>📚 a lifelong learner </p>
+
 
 ###
