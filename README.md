@@ -12,7 +12,10 @@
 
 ###
 
-<p align="left">✨Undertaking Programming course for the first time <be> ☠️ Former Radiologic technologist <be> 🎯 Currently Learning Python <br>📚 a lifelong learner </p>
+<p align="left">✨Undertaking Programming course for the first time <be> 
+<p align="left">☠️ Former Radiologic technologist <be> 
+<p align="left">🎯 Currently Learning Python <be>
+<p align="left">📚 Lifelong Learner </p>
 
 
 ###
